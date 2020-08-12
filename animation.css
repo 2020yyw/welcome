@@ -1,0 +1,32 @@
+@keyframes showItem {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
+
+.stagger-item {
+  animation: showItem 0.5s;
+  animation-fill-mode: both;
+}
+
+.stagger-item:nth-child(1) {
+  animation-delay: 0.07s;
+}
+.stagger-item:nth-child(2) {
+  animation-delay: 0.14s;
+}
+.stagger-item:nth-child(3) {
+  animation-delay: 0.21s;
+}
+.stagger-item:nth-child(4) {
+  animation-delay: 0.28s;
+}
+.stagger-item:nth-child(5) {
+  animation-delay: 0.35s;
+}
