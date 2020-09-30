@@ -17,7 +17,7 @@ body {
   margin-top: 12px;
   margin-right: 4px;
   margin-left: 4px;
-  background-color: #17350d;
+  background-color: #0f402b;
   position: relative;
   border-radius: 0px;
 }
@@ -43,7 +43,7 @@ body {
   font-family: "Noto Sans KR", -apple-system, "Segoe UI", "Open Sans", sans-serif;
   font-size: 12px;
   font-weight: 700;
-  color: #17350d;
+  color: #0f402b;
 }
 
 h1 {
@@ -54,7 +54,7 @@ h1 {
   font-weight: 700;
   font-size: 42px;
   letter-spacing: 0.5px;
-  color: #17350d;
+  color: #0f402b;
   
 }
 
@@ -64,7 +64,7 @@ h1 {
   font-weight: 700;
   line-height: 1.67;
   letter-spacing: normal;
-  color: #17350d;
+  color: #0f402b;
   padding-bottom: 84px;
   border-radius: 15px 50px 30px 5px;
 }
@@ -96,7 +96,7 @@ h1 {
   padding-left: 8px;
   width: 50px;
   border-radius: 2px;
-  background-color: #17300F;
+  background-color: #143426;
   opacity: 0.8;
   position: absolute;
   top: 24px;
@@ -109,7 +109,7 @@ h1 {
     padding-left: 8px;
     width: 50px;
     border-radius: 2px;
-    background-color: #17300F;
+    background-color: #143426;
     opacity: 0.8;
     position: absolute;
     top: 24px;
@@ -122,7 +122,7 @@ h1 {
     padding-left: 8px;
     width: 50px;
     border-radius: 2px;
-    background-color: #17300F;
+    background-color: #143426;
     opacity: 0.8;
     position: absolute;
     top: 28px;
@@ -135,7 +135,7 @@ h1 {
     padding-left: 8px;
     width: 50px;
     border-radius: 2px;
-    background-color: #17300F;
+    background-color: #143426;
     opacity: 0.8;
     position: absolute;
     top: 28px;
@@ -148,7 +148,7 @@ h1 {
       padding-left: 8px;
       width: 50px;
       border-radius: 2px;
-      background-color: #17300F;
+      background-color: #143426;
       opacity: 0.8;
       position: absolute;
       top: 60px;
@@ -280,7 +280,7 @@ h1 {
         padding-left: 8px;
         width: 72px;
         border-radius: 2px;
-        background-color: #17300F;
+        background-color: #143426;
         opacity: 0.8;
         position: absolute;
         top: -3px;
@@ -307,7 +307,7 @@ h1 {
 .footer {
     width: auto;
         height: 82px;
-        background-color: #0b1308;
+        background-color: #021b0f;
         padding: 4px;
       }
 
@@ -315,7 +315,7 @@ h1 {
   font-family: "Noto Sans KR", -apple-system, "Segoe UI", "Open Sans", sans-serif;
   font-size: 12px;
   text-align: center;
-  color: #4f6547;
+  color: #0f402b;
   margin-top: 30px;
 }
     
